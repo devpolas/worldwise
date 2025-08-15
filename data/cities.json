@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "53a0",
+      "cityName": "Thakurgaon",
+      "country": "Bangladesh",
+      "date": "2024-12-30T09:28:29.960Z",
+      "notes": "Test Place!",
+      "position": {
+        "lat": "26.02593611383701",
+        "lng": "88.47427368164062"
+      },
+      "emoji": "🇧🇩"
+    },
+    {
+      "id": "5820",
+      "cityName": "Madarganj",
+      "country": "Bangladesh",
+      "date": "2024-12-30T11:15:16.844Z",
+      "notes": "",
+      "position": {
+        "lat": "24.943820690152624",
+        "lng": "89.71243684016837"
+      },
+      "emoji": "🇧🇩"
+    },
+    {
+      "id": "caf0",
+      "cityName": "Ariari",
+      "country": "India",
+      "date": "2024-12-30T11:15:20.801Z",
+      "notes": "",
+      "position": {
+        "lat": "25.105497373014686",
+        "lng": "85.86914062500001"
+      },
+      "emoji": "🇮🇳"
+    }
+  ]
+}
